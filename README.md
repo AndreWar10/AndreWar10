@@ -1,4 +1,4 @@
-## Bem-Vindo(a), Eu sou o André Guerra, apaixonado pela Tecnologia!!
+## Bem-Vindo(a)! Sou o André, apaixonado pela Tecnologia!!
 <div align="center">
   <a href="https://github.com/AndreWar10">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndreWar10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

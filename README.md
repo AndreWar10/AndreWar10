@@ -11,7 +11,7 @@
   <img align="center" alt="Andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andre-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="right" alt="Andre-pic" height="150" style="border-radius:50px;" src="blob:https://web.whatsapp.com/edebcf0d-c979-4e31-ba8b-e0517f65a578">
+  <img align="right" alt="Andre-pic" height="150" style="border-radius: 80px;" src="https://github.com/AndreWar10/AndreWar10/blob/main/WhatsApp%20Image%202021-12-01%20at%2000.56.47.jpeg">
 
   ##
  

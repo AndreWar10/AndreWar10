@@ -1,9 +1,22 @@
-## Bem-Vindo(a)! Sou o André, dev apaixonado pela Tecnologia!! 
-<div align="center">
+# Olá, Bem-Vindo(a) ao meu espaço! 😁
+
+- 🎂 19 Anos
+- 💼 Aberto para novas oportunidades.
+- ❤️ Gosto de Front-end e Back-end.
+- 📖 Atualmente cursando Análise e Desenvolvimento de Sistemas
+
+<div>
+
+##
+
+#### 🤖 Minha atividade no GitHub
+  
+<div style="display: inline_block;">
   <a href="https://github.com/AndreWar10">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndreWar10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreWar10&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndreWar10&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreWar10&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

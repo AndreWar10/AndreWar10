@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   
 <p align="left"> 
   🌎 Olá, meu nome é André Guerra. Sou <strong>Desenvolvedor de Front-End</strong> e <strong>UI Designer</strong>.

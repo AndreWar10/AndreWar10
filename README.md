@@ -29,13 +29,13 @@
 </div>
 
 <p align="left">
-   
-  <a href="https://www.instagram.com/andre.guerra02/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/andre.guerra02/"/>
-  </a>
   
   <a href="https://www.linkedin.com/in/andr%C3%A9-guerra-santos-b54b281b6/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/andr%C3%A9-guerra-santos-    b54b281b6/"/>
+  </a>
+   
+  <a href="https://www.instagram.com/andre.guerra02/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/andre.guerra02/"/>
   </a>
   
   <a href="https://api.whatsapp.com/send/?phone=5516992062879&text&app_absent=0" target="_blank">

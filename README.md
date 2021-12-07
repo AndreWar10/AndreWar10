@@ -3,7 +3,7 @@
 <div style="display: inline_block">
   
 <p align="left"> 
-  🌎 Olá, meu nome é André Guerra. Sou <strong>Desenvolvedor de Front-End</strong> e <strong>UI Designer</strong>.
+  🌎 Olá, meu nome é André Guerra Santos. Sou <strong>Desenvolvedor</strong> e estudante de <strong>UI Designer</strong>.
 </p>
 
 🦄 Habilidades:

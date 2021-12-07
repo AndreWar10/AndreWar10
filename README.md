@@ -29,11 +29,7 @@
 </div>
 
 <p align="left">
-  
-  <a href="mailto:andreguerra.2002@hotmail.com" alt="Email">
-    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=00FFFF&link=mailto:andreguerra.2002@hotmail.com"/>
-  </a>
-  
+   
   <a href="https://instagram.com/andre.guerra02" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://instagram.com/andre.guerra02"/>
   </a>

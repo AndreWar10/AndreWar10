@@ -19,7 +19,7 @@
   <img align="center" alt="Andre-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Andre-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Andre-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Andre-Github"  height="30" width="40" src="https://github.com/AndreWar10/AndreWar10/blob/main/git.png">
+  <img align="center" alt="Andre-Github"  height="30" width="33" src="https://github.com/AndreWar10/AndreWar10/blob/main/src/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71b51265.8586076615336648817417.png">
 </p>
 
 <p align="left">

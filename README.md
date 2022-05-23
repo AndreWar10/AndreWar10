@@ -11,15 +11,15 @@
   <img align="center" alt="HTML" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
   <!--<img align="center" alt="Andre-Python" height="38" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
  
 <p align="left">
   💼 Tools: 
-  <img align="center" alt="Andre-VSCode" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Andre-Git" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Andre-Figma" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Andre-Github" height="36" width="37" src="https://github.com/AndreWar10/AndreWar10/blob/main/src/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71b51265.8586076615336648817417.png">
+  <img align="center" alt="VSCode" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Git" height="33" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Figma" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Github" height="38" width="43" src="https://img.icons8.com/glyph-neue/344/ffffff/github.png">
 </p>
 
 <p align="left">
@@ -38,6 +38,9 @@
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/andre.guerra02/"/>
   </a>
   
+  <a href="https://api.whatsapp.com/send/?phone=5516992062879&text&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/badge/-Whatsapp-1C1C1C?style=for-the-badge&logo=Whatsapp&logoColor=00FFFF&link=https://api.whatsapp.com/send/?phone=5516992062879&text&app_absent=0">
+  </a> 
   <a href="https://api.whatsapp.com/send/?phone=5516992062879&text&app_absent=0" target="_blank">
     <img src="https://img.shields.io/badge/-Whatsapp-1C1C1C?style=for-the-badge&logo=Whatsapp&logoColor=00FFFF&link=https://api.whatsapp.com/send/?phone=5516992062879&text&app_absent=0">
   </a> 

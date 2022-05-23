@@ -6,7 +6,7 @@
   🌎 Hello, my name is André Guerra Santos. I'm a <strong>Web/Mobile developer</strong></strong>.
 </p>
 
-🦄 Habilidades : 
+🦄 Skills : 
   <img align="center" alt="Flutter-HTML" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Andre-HTML" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,7 +15,7 @@
   <!--<img align="center" alt="Andre-Python" height="38" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
  
 <p align="left">
-  💼 Ferramentas: 
+  💼 Tools: 
   <img align="center" alt="Andre-VSCode" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Andre-Git" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Andre-Figma" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+  💌 If you want to chat with me, send me a message.
 </p>
 
 </div>

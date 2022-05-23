@@ -13,8 +13,7 @@
   <img align="center" alt="Andre-Js" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andre-React" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Andre-Python" height="38" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css
-
+ 
 <p align="left">
   💼 Ferramentas: 
   <img align="center" alt="Andre-VSCode" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">

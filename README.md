@@ -41,7 +41,4 @@
   <a href="https://api.whatsapp.com/send/?phone=5516992062879&text&app_absent=0" target="_blank">
     <img src="https://img.shields.io/badge/-Whatsapp-1C1C1C?style=for-the-badge&logo=Whatsapp&logoColor=00FFFF&link=https://api.whatsapp.com/send/?phone=5516992062879&text&app_absent=0">
   </a> 
-  <a href="https://api.whatsapp.com/send/?phone=5516992062879&text&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/badge/-Whatsapp-1C1C1C?style=for-the-badge&logo=Whatsapp&logoColor=00FFFF&link=https://api.whatsapp.com/send/?phone=5516992062879&text&app_absent=0">
-  </a> 
 </p>

@@ -7,7 +7,7 @@
 </p>
 
 🦄 Habilidades : 
-  <img align="center" alt="Flutter-HTML" height="33" width="43" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)">
+  <img align="center" alt="Flutter-HTML" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Andre-HTML" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-Js" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

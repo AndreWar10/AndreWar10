@@ -12,7 +12,7 @@
   <img align="center" alt="Andre-CSS" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-Js" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andre-React" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Andre-Python" height="38" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <!--<img align="center" alt="Andre-Python" height="38" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
  
 <p align="left">
   💼 Ferramentas: 

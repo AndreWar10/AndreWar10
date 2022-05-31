@@ -3,7 +3,7 @@
 <div style="display: inline_block">
   
 <p align="left"> 
-  🌎 Hello, my name's André Guerra. I'm a <strong>Web/Mobile developer</strong></strong>.
+  🌎 Hello, my name's André Guerra Santos. I'm a <strong>Web/Mobile developer</strong></strong>.
 </p>
 
 🦄 Skills : 

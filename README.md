@@ -15,7 +15,7 @@
   <!--<img align="center" alt="Andre-Python" height="38" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
  
 <p align="left">
-  💼 Tools: 
+  🔧 Tools: 
   <img align="center" alt="VSCode" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="33" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Figma" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">

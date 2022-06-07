@@ -6,7 +6,7 @@
   🌎 Hello, my name's André Guerra Santos. I'm a <strong>Web/Mobile developer</strong></strong>.
 </p>
 
-🦄 Skills : 
+🦄 Skills: 
   <img align="center" alt="HTML" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="HTML" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

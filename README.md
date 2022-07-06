@@ -17,9 +17,8 @@
 <p align="left">
   💼 Tools: 
   <img align="center" alt="VSCode" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="33" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Git" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Figma" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Github" height="38" width="43" src="https://img.icons8.com/glyph-neue/344/ffffff/github.png">
 </p>
 
 <p align="left">

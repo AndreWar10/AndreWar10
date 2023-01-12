@@ -11,8 +11,7 @@
   💌 If you want to chat with me, send me a message.
 </p>
 
-
-
+<sup><kbd>***[Click here](https://github.com/somekindofwallflower/my-views-counter)***</kbd> *to view my other projects.</sup>* <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

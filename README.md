@@ -27,7 +27,7 @@
 <sup><kbd>***[Click here](https://github.com/AndreWar10?tab=repositories)***</kbd> *to view my projects.</sup>* <br>	
     
 <p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=AndreWar10&show_icons=true&locale=en&theme=radical"                alt="somekindofwallflower"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=AndreWar10&show_icons=true&locale=en&theme=radical" alt="AndreWar10"/>
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreWar10&theme=radical" alt="AndreWar10" />
 </p>
 

@@ -1,7 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B101F1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andre+Guerra;I'm+20+years+old;I+from+Brasil,+SP;I'm+a+Web/Mobile+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <div style="display: inline_block">
-  
+
+<br/>  
 <p align="left"> 
   🌎 Hello, my name's André Guerra Santos. I'm a <strong>Web/Mobile developer</strong></strong>.
 </p>
@@ -25,7 +30,12 @@
 <p align="left"> <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> </a> <a href="https://developer.android.com/studio?gclid=CjwKCAiA2fmdBhBpEiwA4CcHzQZYwbY4Az6IL_lzQxhJd2yZ0eHlPlsigQw26G89NeIXB-v88Fx-9xoCXTwQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" width="40" height="40"/> </a>  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://developer.android.com/studio?gclid=CjwKCAiA2fmdBhBpEiwA4CcHzQZYwbY4Az6IL_lzQxhJd2yZ0eHlPlsigQw26G89NeIXB-v88Fx-9xoCXTwQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidStudio" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="35" height="35"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.genexus.com/pt/" target="_blank"> <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3d58039d-1bc0-4915-b7c5-9bb7acfcbcec.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3" alt="GeneXus" width="40" height="40"/> </a>
 
 <sup><kbd>***[Click here](https://github.com/AndreWar10?tab=repositories)***</kbd> *to view my projects.</sup>* <br>	
-    
+
+<div align=center>
+   <img src="https://github-profile-trophy.vercel.app/?username=AndreWar10&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+</div>
+  
+<br/>    
 <p align="center">
   <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=AndreWar10&show_icons=true&locale=en&theme=radical" alt="AndreWar10"/>
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreWar10&theme=radical" alt="AndreWar10" />
@@ -36,7 +46,10 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-<br/>
-<h3 align="center">
-	⬇ Check my pinned projects below and leave a ⭐️ ⬇
-</h3>
+
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndreWar10&theme=gotham)
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=footer"/>

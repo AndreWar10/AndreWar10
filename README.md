@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B101F1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andre+Guerra;I'm+20+years+old;I+from+Brasil,+SP;I'm+a+Web/Mobile+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -52,4 +52,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=footer"/>
+

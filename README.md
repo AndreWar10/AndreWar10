@@ -1,6 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=header"/>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B101F1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andre+Guerra;I'm+20+years+old;I+from+Brasil,+SP;I'm+a+Web/Mobile+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B101F1&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andre+Guerra;I'm+20+years+old,;I+from+Brasil,+SP;I'm+a+Web/Mobile+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
@@ -31,15 +31,16 @@
 
 <sup><kbd>***[Click here](https://github.com/AndreWar10?tab=repositories)***</kbd> *to view my projects.</sup>* <br>	
 
-<div align=center>
-   <img src="https://github-profile-trophy.vercel.app/?username=AndreWar10&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
-</div>
-  
 <br/>    
 <p align="center">
   <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=AndreWar10&show_icons=true&locale=en&theme=radical" alt="AndreWar10"/>
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreWar10&theme=radical" alt="AndreWar10" />
 </p>
+
+<br/>    
+<div align=center>
+   <img src="https://github-profile-trophy.vercel.app/?username=AndreWar10&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+</div>
 
 # Contributions
 (in the last 365 days, languages pie based on number of commits)
@@ -48,8 +49,6 @@
 
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndreWar10&theme=gotham)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndreWar10&theme=react-dark&line=B101F1)
 
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=footer"/>

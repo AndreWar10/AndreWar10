@@ -28,28 +28,6 @@
   </tr>
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
-<table border="0" cellspacing="0" cellpadding="4" style="border:0;border-collapse:collapse;">
-  <tr>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="Android" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="35" height="35"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a></td>
-    <td align="center" valign="middle" style="border:0;padding:4px;"><a href="https://www.genexus.com/pt/" target="_blank" rel="noreferrer"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3d58039d-1bc0-4915-b7c5-9bb7acfcbcec.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3" alt="GeneXus" width="40" height="40"/></a></td>
-  </tr>
-</table>
-
 <sup><kbd>***[Click here](https://github.com/AndreWar10?tab=repositories)***</kbd> *to view my projects.</sup>* <br>	
 
 <br/>    

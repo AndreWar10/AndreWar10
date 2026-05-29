@@ -31,18 +31,17 @@
 <sup><kbd>***[Click here](https://github.com/AndreWar10?tab=repositories)***</kbd> *to view my projects.</sup>* <br>	
 
 <br/>    
-<p align="center">
+<p align="left">
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreWar10&theme=merko" alt="AndreWar10" />
 </p>
 
 <br/>    
 
+<!--
 # Contributions
 (in the last 365 days, languages pie based on number of commits)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-<!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndreWar10&theme=xcode) -->
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndreWar10&theme=xcode) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=166534&height=120&section=footer"/>

@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=166534&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=166534&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Andre+Guerra;I'm+from+Brasil,+SP;I'm+a+Web/Mobile+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer">
@@ -27,3 +29,5 @@
 <p align="left">
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreWar10&theme=merko" alt="AndreWar10" />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=166534&height=120&section=footer"/>

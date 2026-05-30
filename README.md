@@ -1,18 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=166534&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=166534&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Andre+Guerra;I'm+from+Brasil,+SP;I'm+a+Web/Mobile+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer">
 
-<div style="display: inline_block">
-
-<br/>  
-<p align="left"> 
+<p align="left">
   🌎 Hello, my name's André Guerra Santos. I'm a <strong>Web/Mobile developer</strong>.
 </p>
 
 <p align="left">
-  
   💌 If you want to chat with me, send me a message.
 </p>
 
@@ -28,20 +22,8 @@
   </tr>
 </table>
 
-<sup><kbd>***[Click here](https://github.com/AndreWar10?tab=repositories)***</kbd> *to view my projects.</sup>* <br>	
+<sup><kbd>***[Click here](https://github.com/AndreWar10?tab=repositories)***</kbd> to view my projects.</sup>
 
-<br/>    
 <p align="left">
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreWar10&theme=merko" alt="AndreWar10" />
 </p>
-
-<br/>    
-
-<!--
-# Contributions
-(in the last 365 days, languages pie based on number of commits)
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndreWar10&theme=xcode) -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=166534&height=120&section=footer"/>
